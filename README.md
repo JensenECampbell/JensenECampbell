@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JensenECampbell
 - 👀 I’m interested in travelling and being in nature 🌲
 - 🌱 I’m currently learning how to make a weather app 👩‍💻
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me best is by email: jensencampbell80@gmail.com
 
 <!---
